@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preethiharshini21&label=Profile%20views&color=0e75b6&style=flat" alt="preethiharshini21" /> </p>
 
+<!-- <img  align="right" src=https://octodex.github.com/nuxtocat/ height="300" width="300"></img> -->
+
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **preethiharshini.02@gmail.com**
