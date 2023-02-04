@@ -23,6 +23,6 @@
 <p align="center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethiharshini21&layout=compact&theme=github_dark" width="45%"/>
 &nbsp; &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=preethiharshini21&theme=highcontrast"width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=preethiharshini21&theme=highcontrast"width="52%"/>
 </p>
 
