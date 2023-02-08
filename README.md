@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preethiharshini21&label=Profile%20views&color=0e75b6&style=flat" alt="preethiharshini21" /> </p>
 
-<!-- <img  align="right" src=https://octodex.github.com/nuxtocat/ height="300" width="300"></img> -->
+<!-- <img  align="right" src="https://github.com/PreethiHarshini21/PreethiHarshini21/blob/main/Octodex.gif" height="300" width="300"></img> -->
+
+
 <!-- <img  align="right" src=https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316 height="300" width="300"></img> -->
 
 - 🌱 I’m currently learning **Python**
