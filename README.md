@@ -8,9 +8,6 @@
 
 <!-- <img  align="right" src="https://github.com/PreethiHarshini21/PreethiHarshini21/blob/main/Octodex.gif" height="300" width="300"></img> -->
 
-
-<!-- <img  align="right" src=https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316 height="300" width="300"></img> -->
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **preethiharshini.02@gmail.com**
