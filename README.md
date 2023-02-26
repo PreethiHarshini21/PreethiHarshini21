@@ -1,4 +1,4 @@
-<img src="https://github.com/PreethiHarshini21/PreethiHarshini21/blob/main/Banner.gif" height="409" width="2000" alt="Banner Image">
+<img src="https://github.com/PreethiHarshini21/PreethiHarshini21/blob/main/Banner.gif" height="407" width="2000" alt="Banner Image">
 
 <!-- <h1 align="center">Hi 👋, I'm Preethi Harshini</h1> -->
 <h3 align="center">I'm pursuing my B.Tech degree at Srm University. I am a zestful,dynamic learner and I am currently working on web development.</h3>
